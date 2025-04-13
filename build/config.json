@@ -1,0 +1,5 @@
+{
+  "excelFilePath": "uploads/student_fees.xlsx",
+  "defaultCountryCode": "+91",
+  "messageTemplate": "Dear {{name}},\n\nThis is a reminder that your fee payment of {{amount}} is pending.\n\nPlease make the payment as soon as possible to avoid any late fees.\n\nRegards,\nSchool Administration"
+}
